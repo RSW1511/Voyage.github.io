@@ -1,7 +1,7 @@
 {
-  "name": "Turismo",
+  "name": "Voyage",
   "version": "1.0.0",
-  "description": "Turismo reponsive website build using HTML5, CSS3 and Javascript. The complete layout of the page is build using grid layout and flexbox with some cool animations",
+  "description": "Voyage reponsive website build using HTML5, CSS3 and Javascript. The complete layout of the page is build using grid layout and flexbox with some cool animations",
   "main": "index.html",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
@@ -10,7 +10,7 @@
     "build": "npm run prefix:css && npm run parcel",
     "dev": "parcel index.html"
   },
-  "author": "Manoranjan",
+  "author": "Rohan",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.2.5",
